@@ -1,6 +1,6 @@
 # Willyan AG
 
-Frontend Dev
+UX/UI Designer | Frontend Dev
 
 [![Twitter Badge](https://img.shields.io/badge/-@willyanfx-0080f1?style=flat-square&labelColor=0080f1&logo=twitter&logoColor=white&link=https://twitter.com/willyanfx)](https://twitter.com/willyanfx) 
 [![Linkedin Badge](https://img.shields.io/badge/-Willyan%20AG-0080f1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willyanfx/)](https://www.linkedin.com/in/willyanfx/) 
