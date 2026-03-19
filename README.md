@@ -1,4 +1,4 @@
-# Hey, I'm Willyan 👋
+# Hey, I'm Willyan
 
 **Frontend Developer & UX Designer** with 10+ years turning complex problems into intuitive user experiences.
 
@@ -8,7 +8,7 @@ I sit at the intersection of design and engineering — I think in components, c
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Languages & Markup:** TypeScript · JavaScript · HTML · CSS · Liquid
 
@@ -18,7 +18,7 @@ I sit at the intersection of design and engineering — I think in components, c
 
 ---
 
-### 🔭 What I'm up to
+### What I'm up to
 
 - Building custom Shopify apps with Remix and Svelte
 - Exploring AI-assisted tooling and developer workflows
@@ -26,7 +26,7 @@ I sit at the intersection of design and engineering — I think in components, c
 
 ---
 
-### 📬 Let's connect
+### Let's connect
 
 [![Twitter](https://img.shields.io/badge/-@willyanfx-0080f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/willyanfx)
 [![LinkedIn](https://img.shields.io/badge/-Willyan%20Geraldo-0080f1?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/willyanfx/)
