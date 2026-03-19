@@ -1,25 +1,34 @@
-# Willyan AG
+# Hey, I'm Willyan 👋
 
-UX/UI Designer | Frontend Dev
+**Frontend Developer & UX Designer** with 10+ years turning complex problems into intuitive user experiences.
 
-[![Twitter Badge](https://img.shields.io/badge/-@willyanfx-0080f1?style=flat-square&labelColor=0080f1&logo=twitter&logoColor=white&link=https://twitter.com/willyanfx)](https://twitter.com/willyanfx) 
-[![Linkedin Badge](https://img.shields.io/badge/-Willyan%20AG-0080f1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willyanfx/)](https://www.linkedin.com/in/willyanfx/) 
-[![Gmail Badge](https://img.shields.io/badge/-willyan.fx@gmail.com-0080f1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:willyan.fx@gmail.com)](mailto:willyan.fx@gmail.com)
+Currently building storefronts, themes, and custom Shopify apps at **Fit Foods** — pushing what's possible on the Shopify platform with clean code and thoughtful CX. Previously shaped design systems and rich interfaces at **Global Relay**, and spent years freelancing for clients across Canada and Brazil.
 
+I sit at the intersection of design and engineering — I think in components, care about accessibility, and believe great UI starts with empathy.
 
+---
 
-<!--
-**willyanfx/willyanfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-#0080f1fa
-Here are some ideas to get you started:
+### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+**Languages & Markup:** TypeScript · JavaScript · HTML · CSS · Liquid
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willyanfx)](https://github.com/willyanfx)
--->
+**Frameworks & Libraries:** React · Remix · Svelte · Next.js · Tailwind CSS
+
+**Platforms & Tools:** Shopify (Themes + Apps) · Node.js · SQL/NoSQL · Serverless · Git · Figma
+
+---
+
+### 🔭 What I'm up to
+
+- Building custom Shopify apps with Remix and Svelte
+- Exploring AI-assisted tooling and developer workflows
+- Always refining my craft at the design-code boundary
+
+---
+
+### 📬 Let's connect
+
+[![Twitter](https://img.shields.io/badge/-@willyanfx-0080f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/willyanfx)
+[![LinkedIn](https://img.shields.io/badge/-Willyan%20Geraldo-0080f1?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/willyanfx/)
+[![Dribbble](https://img.shields.io/badge/-willyanfx-0080f1?style=flat-square&logo=Dribbble&logoColor=white)](https://dribbble.com/willyanfx)
+[![Gmail](https://img.shields.io/badge/-willyan.fx@gmail.com-0080f1?style=flat-square&logo=Gmail&logoColor=white)](mailto:willyan.fx@gmail.com)
